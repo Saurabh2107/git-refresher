@@ -9,6 +9,10 @@ def add (num1,num2):
 def sub(num1,num2):
     return num1-num2
 
+def mul(num1,num2):
+    return num1*num2
+
 print(add(5, 10))
 print(sub(10,5))
+print(mul(5, 10))
 greet()
